@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **JS, GSAP and REACT**
 
-- 📫 How to reach me **poggi.tommaso02@gmail.com**
-
 <h3 aling="left">Connect with me:</h3>
 <p aling="left">
 </p>
