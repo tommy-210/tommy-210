@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tommaso Poggi</h1>
 <h3 align="center">A passionate student and hobbyist programmer from Italy</h3>
 
-- 🔭 I’m currently working on [Java Mqtt Client Android](https://github.com/tommy-210/Java_Mqtt_Client_Android)
+- 🔭 I’m currently working on [Java Mqtt Client Android](https://github.com/tommy-210/Mqitty)
 
 - 🌱 I’m currently learning **JavaFX, libGDX, esp32**
 
